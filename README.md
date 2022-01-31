@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: Bio-Informatics, Computer Systems, and Advanced CS Theory
 - 📫 How to reach me: akugraphics@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him, They/Them
 - 🎨 I also do Graphic Design, check out my portfolio: <a href = "https://ahku.portfoliobox.net/">ahku.portfoliobox.net</a>
 - 🎓 Current Education: Associate's Degree in Science @ Asheville-Buncombe Technical College, Undergraduate Computer Science Major @ Appalachian State University
 - 🔎 Find me elsewhere:
