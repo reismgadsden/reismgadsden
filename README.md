@@ -4,7 +4,7 @@
 **reismgadsden/reismgadsden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning: Data Structures, Web Scraping, GUIs
+- 🌱 I’m currently learning: Bio-Informatics, Computer Systems, and Advanced CS Theory
 - 📫 How to reach me: akugraphics@gmail.com
 - 😄 Pronouns: He/Him
 - 🎨 I also do Graphic Design, check out my portfolio: <a href = "https://ahku.portfoliobox.net/">ahku.portfoliobox.net</a>
