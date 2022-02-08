@@ -17,7 +17,8 @@
 
 <details>
   <summary>:octocat: My Github Stats:</summary>
-  
   <img align="left" alt="reismgadsden's Github Stats" src="https://github-readme-stats.vercel.app/api?username=reismgadsden&show_icons=true" />
-  
+  <img allign="left" alt="reismgadsden's Language Overview" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reismgadsden&theme=tokyonight"/>
 </details>
+
+
