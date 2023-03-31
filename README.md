@@ -4,12 +4,13 @@
 **reismgadsden/reismgadsden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning: Bio-Informatics, Computer Systems, and Advanced CS Theory
+- 🌱 I’m currently learning: Causal Inference, Machine Learning, Azure Web Application Development
 - 📫 How to reach me: akugraphics@gmail.com
 - 😄 Pronouns: He/Him, They/Them
 - 🎨 I also do Graphic Design, check out my portfolio: <a href = "https://ahku.portfoliobox.net/">ahku.portfoliobox.net</a>
 - 🎓 Current Education: Associate's Degree in Science @ Asheville-Buncombe Technical College, Undergraduate Computer Science Major @ Appalachian State University
 - 🔎 Find me elsewhere:
+  - 🔗 LinkedIn: <a href = "https://www.linkedin.com/in/reis-gadsden-3397b7208/">Reis Gadsden</a>
   - 🎧 Discord: <a href = "https://discord.com/users/142790013573136385">aku.#8839</a>
   - 🐦 Twitter: <a href = "https://twitter.com/fvckaku">@fvckaku</a>
   - 📷 Instagram: <a href = "https://www.instagram.com/reisgadsden/">reisgadsden</a>
